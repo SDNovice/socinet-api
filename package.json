@@ -1,0 +1,31 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "our package for our social network api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SDNovice/socinet-api.git"
+  },
+  "keywords": [
+    "social",
+    "network",
+    "api"
+  ],
+  "author": "Sean Yanez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SDNovice/socinet-api/issues"
+  },
+  "homepage": "https://github.com/SDNovice/socinet-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
