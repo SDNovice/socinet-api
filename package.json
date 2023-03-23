@@ -23,7 +23,7 @@
   "homepage": "https://github.com/SDNovice/socinet-api#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^6.0.13"
+    "mongoose": "^6.9.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.9"
