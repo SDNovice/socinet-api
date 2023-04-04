@@ -4,7 +4,10 @@
   "description": "our package for our social network api",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index",
+    "seed": "node utils/seed.js",
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
